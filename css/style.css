@@ -1,6 +1,6 @@
 
 body {
-  background-color: pink;
+  background: pink;
 }
 
 h1 {
@@ -23,6 +23,6 @@ p {
 }
 
 #tasks .completed {
-  background-color: #ccc;
+  background: #ccc;
   text-decoration: underline;
 }
